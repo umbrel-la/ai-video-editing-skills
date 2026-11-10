@@ -1,0 +1,15 @@
+{
+  "name": "ai-video-editing-skills",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Russian quick-start bundle for AI video editing with HyperFrames and FFmpeg",
+  "license": "Apache-2.0",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "setup": "node scripts/setup.mjs",
+    "doctor": "node scripts/setup.mjs --check",
+    "smoke": "node scripts/smoke.mjs",
+    "test": "node --test tests/setup.test.mjs"
+  }
+}

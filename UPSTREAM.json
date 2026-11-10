@@ -1,0 +1,1260 @@
+{
+  "source": "https://github.com/heygen-com/hyperframes",
+  "commit": "0b531bc7a4635b8ede475522f21bfc451f0c6320",
+  "license": "Apache-2.0",
+  "filesVerifiedAgainstPublicGitTree": 313,
+  "files": [
+    {
+      "path": "skills/figma/scripts/verify-motion.mjs",
+      "gitBlobSha1": "38247a8fa4f058dfd76d157b69fb2ed8acb979da"
+    },
+    {
+      "path": "skills/figma/SKILL.md",
+      "gitBlobSha1": "2978b51309f05f946fb589cee7b5f9535d5df557"
+    },
+    {
+      "path": "skills/hyperframes/assets/frame-presets/biennale-yellow/caption-skin.html",
+      "gitBlobSha1": "dc103fcdfa63de12b51669f2a68b2b914e91cad2"
+    },
+    {
+      "path": "skills/hyperframes/assets/frame-presets/biennale-yellow/frame-showcase.html",
+      "gitBlobSha1": "186f8252ad7aeaa18d1fbed1680e4227f0a9ac23"
+    },
+    {
+      "path": "skills/hyperframes/assets/frame-presets/biennale-yellow/FRAME.md",
+      "gitBlobSha1": "c082ea2fefdd47bd2679d72d6a50a3a41aa99eaf"
+    },
+    {
+      "path": "skills/hyperframes/assets/frame-presets/blockframe/caption-skin.html",
+      "gitBlobSha1": "e606041543020dadc570bb4e93db3ef1bc3102ec"
+    },
+    {
+      "path": "skills/hyperframes/assets/frame-presets/blockframe/frame-showcase.html",
+      "gitBlobSha1": "3f5a165072f67559e2c10bbd12d5cbb8bae820e5"
+    },
+    {
+      "path": "skills/hyperframes/assets/frame-presets/blockframe/FRAME.md",
+      "gitBlobSha1": "00e4d88318288c8c138716d266b13dcb31350d57"
+    },
+    {
+      "path": "skills/hyperframes/assets/frame-presets/blue-professional/caption-skin.html",
+      "gitBlobSha1": "c76013359d5fd893816fae4cdd0c3791ea159d4e"
+    },
+    {
+      "path": "skills/hyperframes/assets/frame-presets/blue-professional/frame-showcase.html",
+      "gitBlobSha1": "ff00e7be733ca18714a5b48c4f49669b68d17f5f"
+    },
+    {
+      "path": "skills/hyperframes/assets/frame-presets/blue-professional/FRAME.md",
+      "gitBlobSha1": "e821dee2dccc8e424ac160ca6714d561027cce46"
+    },
+    {
+      "path": "skills/hyperframes/assets/frame-presets/bold-poster/caption-skin.html",
+      "gitBlobSha1": "858dc91108890ac24c980f148545e2cfbb03d7ac"
+    },
+    {
+      "path": "skills/hyperframes/assets/frame-presets/bold-poster/frame-showcase.html",
+      "gitBlobSha1": "a8f91897faa3b5b4c74108a6424fcf9290325cd6"
+    },
+    {
+      "path": "skills/hyperframes/assets/frame-presets/bold-poster/FRAME.md",
+      "gitBlobSha1": "c9f31256cd127913c3ff2457811f8467639da539"
+    },
+    {
+      "path": "skills/hyperframes/assets/frame-presets/broadside/caption-skin.html",
+      "gitBlobSha1": "5e90ac4215a59c11f361e11b75e345a7b58cbb2d"
+    },
+    {
+      "path": "skills/hyperframes/assets/frame-presets/broadside/frame-showcase.html",
+      "gitBlobSha1": "0d2a6cd15266207ca6feed354cadd2b8eaa21670"
+    },
+    {
+      "path": "skills/hyperframes/assets/frame-presets/broadside/FRAME.md",
+      "gitBlobSha1": "4dff52def23bb5492844cbbc25a25c19909c6fc4"
+    },
+    {
+      "path": "skills/hyperframes/assets/frame-presets/capsule/caption-skin.html",
+      "gitBlobSha1": "d15690d148784bd83255bdccde05ad907d989880"
+    },
+    {
+      "path": "skills/hyperframes/assets/frame-presets/capsule/frame-showcase.html",
+      "gitBlobSha1": "65b4e196dbf09cd76208df59daaf77b142bd1dba"
+    },
+    {
+      "path": "skills/hyperframes/assets/frame-presets/capsule/FRAME.md",
+      "gitBlobSha1": "a37f828c847c031f1603406ce1440a8fc2b4f803"
+    },
+    {
+      "path": "skills/hyperframes/assets/frame-presets/cartesian/caption-skin.html",
+      "gitBlobSha1": "3738c67bf631474ad86ae8c703fa7f9a329bf186"
+    },
+    {
+      "path": "skills/hyperframes/assets/frame-presets/cartesian/frame-showcase.html",
+      "gitBlobSha1": "7918b04e9ddb4bfb924668f24470a24e1d4b9e71"
+    },
+    {
+      "path": "skills/hyperframes/assets/frame-presets/cartesian/FRAME.md",
+      "gitBlobSha1": "a00c21d9250ace9886fc835834993b9d63f64b3f"
+    },
+    {
+      "path": "skills/hyperframes/assets/frame-presets/cobalt-grid/caption-skin.html",
+      "gitBlobSha1": "4690790ad293fb97792585870089e0f09a31dcf1"
+    },
+    {
+      "path": "skills/hyperframes/assets/frame-presets/cobalt-grid/frame-showcase.html",
+      "gitBlobSha1": "d9449880f1a7b21ff30976dcdbd1d8a385cf3386"
+    },
+    {
+      "path": "skills/hyperframes/assets/frame-presets/cobalt-grid/FRAME.md",
+      "gitBlobSha1": "af52eec8f3cd86880530f4c0169c9cf422e31e4e"
+    },
+    {
+      "path": "skills/hyperframes/assets/frame-presets/code-editorial/caption-skin.html",
+      "gitBlobSha1": "89f43b4fe66f19693d661280636fb30f5fc64328"
+    },
+    {
+      "path": "skills/hyperframes/assets/frame-presets/code-editorial/fonts/EBGaramond-400.woff2",
+      "gitBlobSha1": "ffed311d3ecff2090519c97c2e7149ccd96305b2"
+    },
+    {
+      "path": "skills/hyperframes/assets/frame-presets/code-editorial/fonts/EBGaramond-700.woff2",
+      "gitBlobSha1": "85d520902feaa6f8646f036bf1dbe6b901106e8f"
+    },
+    {
+      "path": "skills/hyperframes/assets/frame-presets/code-editorial/fonts/Inter-400.woff2",
+      "gitBlobSha1": "f15b025d666269fb07daf0263e54231481e4289c"
+    },
+    {
+      "path": "skills/hyperframes/assets/frame-presets/code-editorial/fonts/Inter-700.woff2",
+      "gitBlobSha1": "a68fb101cd9224aa7bb6ca80356b5132c40c6f3f"
+    },
+    {
+      "path": "skills/hyperframes/assets/frame-presets/code-editorial/fonts/JetBrainsMono-400.woff2",
+      "gitBlobSha1": "585887339efd032b6b715466ae72d86e306bec79"
+    },
+    {
+      "path": "skills/hyperframes/assets/frame-presets/code-editorial/fonts/JetBrainsMono-700.woff2",
+      "gitBlobSha1": "3a4e333fc9316f9989e16af6788bf1fc788c7084"
+    },
+    {
+      "path": "skills/hyperframes/assets/frame-presets/code-editorial/fonts/OFL-eb-garamond.txt",
+      "gitBlobSha1": "da3ca89595df81b16855b86a4d0d370f34a908fa"
+    },
+    {
+      "path": "skills/hyperframes/assets/frame-presets/code-editorial/fonts/OFL-inter.txt",
+      "gitBlobSha1": "40589daa9de8bc96606292ea0be712ff0f0626eb"
+    },
+    {
+      "path": "skills/hyperframes/assets/frame-presets/code-editorial/fonts/OFL-jetbrains-mono.txt",
+      "gitBlobSha1": "8f7ed671137e7a27c646ead86f45d5cb4875f459"
+    },
+    {
+      "path": "skills/hyperframes/assets/frame-presets/code-editorial/frame-showcase.html",
+      "gitBlobSha1": "e0a70eab89b1e20dc131153f04f0424d44b2acc1"
+    },
+    {
+      "path": "skills/hyperframes/assets/frame-presets/code-editorial/FRAME.md",
+      "gitBlobSha1": "e356faee0de6aeed96821318834b8c5c7640e696"
+    },
+    {
+      "path": "skills/hyperframes/assets/frame-presets/coral/caption-skin.html",
+      "gitBlobSha1": "d284d034e8111846b8fc284ec720874d17b4421a"
+    },
+    {
+      "path": "skills/hyperframes/assets/frame-presets/coral/frame-showcase.html",
+      "gitBlobSha1": "ae87659f3b61426694e9e522f6573b28b1d6c4e7"
+    },
+    {
+      "path": "skills/hyperframes/assets/frame-presets/coral/FRAME.md",
+      "gitBlobSha1": "0c73b04acba1d4b86e5285daa90273b5e346a3c9"
+    },
+    {
+      "path": "skills/hyperframes/assets/frame-presets/creative-mode/caption-skin.html",
+      "gitBlobSha1": "246cb38ed4ba87fc8190933cde56f9bccc6ad4ca"
+    },
+    {
+      "path": "skills/hyperframes/assets/frame-presets/creative-mode/frame-showcase.html",
+      "gitBlobSha1": "e540e40a39733abced1ea3d249f692c0eca32832"
+    },
+    {
+      "path": "skills/hyperframes/assets/frame-presets/creative-mode/FRAME.md",
+      "gitBlobSha1": "e00e6fed67b6a1a1f366119714d548238427d752"
+    },
+    {
+      "path": "skills/hyperframes/assets/frame-presets/daisy-days/caption-skin.html",
+      "gitBlobSha1": "6a5141ec42eea884b58f68d66018cf8844b0f71a"
+    },
+    {
+      "path": "skills/hyperframes/assets/frame-presets/daisy-days/frame-showcase.html",
+      "gitBlobSha1": "c577bdbab3a1f023139349f3a63f2e5ff875b274"
+    },
+    {
+      "path": "skills/hyperframes/assets/frame-presets/daisy-days/FRAME.md",
+      "gitBlobSha1": "ed3ebf49e0a0f78cb5ac543e5c175d8da4c07541"
+    },
+    {
+      "path": "skills/hyperframes/assets/frame-presets/editorial-forest/caption-skin.html",
+      "gitBlobSha1": "7b79f3f8858fca156d4fcd3dccf9f47dc5ce3dbe"
+    },
+    {
+      "path": "skills/hyperframes/assets/frame-presets/editorial-forest/frame-showcase.html",
+      "gitBlobSha1": "c5c08718fef48120a17ee7d7858e3bfe592c63e7"
+    },
+    {
+      "path": "skills/hyperframes/assets/frame-presets/editorial-forest/FRAME.md",
+      "gitBlobSha1": "83e2594f6301b54d98569ad478417d6fbb0d95ed"
+    },
+    {
+      "path": "skills/hyperframes/references/captions.md",
+      "gitBlobSha1": "db13fc7e3ed25af4324ec7408aafb98c2f2d8f8f"
+    },
+    {
+      "path": "skills/hyperframes/references/film.md",
+      "gitBlobSha1": "ae6d515ebec77829dd56ceddd994f1d1b94f5306"
+    },
+    {
+      "path": "skills/hyperframes/references/format.md",
+      "gitBlobSha1": "d02443b26b823e35d46b4e4778401a551c8cf335"
+    },
+    {
+      "path": "skills/hyperframes/references/look.md",
+      "gitBlobSha1": "b20dc1480e3e1c22e05d8237ea12ca67409178ca"
+    },
+    {
+      "path": "skills/hyperframes/references/motion.md",
+      "gitBlobSha1": "8337d171f8251c8dc11b3c543e6bac2ea8cca479"
+    },
+    {
+      "path": "skills/hyperframes/references/overlays.md",
+      "gitBlobSha1": "2f5f83a74157ffca2555318bdab6faa5880396c1"
+    },
+    {
+      "path": "skills/hyperframes/references/path-tracing.md",
+      "gitBlobSha1": "ddbac7e8e7d4c123164cef567f2d392feb1655b9"
+    },
+    {
+      "path": "skills/hyperframes/references/plugin-installation.md",
+      "gitBlobSha1": "ef2144b0e263f468c01be2fb0922b27c38201a31"
+    },
+    {
+      "path": "skills/hyperframes/references/review.md",
+      "gitBlobSha1": "9dcef20320703ca2d65877949e3ae6d23552e719"
+    },
+    {
+      "path": "skills/hyperframes/references/runtimes.md",
+      "gitBlobSha1": "c9efbb8063314f36aae5f961806fe3b1f666043a"
+    },
+    {
+      "path": "skills/hyperframes/references/skill-lifecycle.md",
+      "gitBlobSha1": "9192258c89b793053ace7144d3dd951e1a3c349a"
+    },
+    {
+      "path": "skills/hyperframes/references/sound.md",
+      "gitBlobSha1": "8c252cabc4a8635fa1c73c26f7dd544eebdc9139"
+    },
+    {
+      "path": "skills/hyperframes/references/spec.md",
+      "gitBlobSha1": "ac756a0fab94c2d02acfba9b2bbff55ac058868c"
+    },
+    {
+      "path": "skills/hyperframes/references/story.md",
+      "gitBlobSha1": "528ca1d43151b2f41ae2e5e73215dc9dca6ccc48"
+    },
+    {
+      "path": "skills/hyperframes/references/storyboard-format.md",
+      "gitBlobSha1": "9653cd08240b90109a908bc9bdb240d69749953f"
+    },
+    {
+      "path": "skills/hyperframes/references/storyboard.md",
+      "gitBlobSha1": "5e2d7dcaf2f2c4cdea18fd38a7586e0dc416144a"
+    },
+    {
+      "path": "skills/hyperframes/references/types/3d.md",
+      "gitBlobSha1": "ff46ca30d989c5e0639d5874273b238fa64f1162"
+    },
+    {
+      "path": "skills/hyperframes/references/types/character.md",
+      "gitBlobSha1": "d2aea1fe9d7e68ffbdc98cb9a1dad03b414097b8"
+    },
+    {
+      "path": "skills/hyperframes/references/types/data.md",
+      "gitBlobSha1": "3b6c6ede3071e0ce588d205172d0667e528439d3"
+    },
+    {
+      "path": "skills/hyperframes/references/types/explainer.md",
+      "gitBlobSha1": "049e4f75f91456e7afc265709f34b4d7e98316fd"
+    },
+    {
+      "path": "skills/hyperframes/references/types/launch.md",
+      "gitBlobSha1": "30077317bd146b72f1031f2109aafdd8061c0a94"
+    },
+    {
+      "path": "skills/hyperframes/references/types/music.md",
+      "gitBlobSha1": "c602f0c903b6ab9f429ef105f905657fca7035ff"
+    },
+    {
+      "path": "skills/hyperframes/references/types/vertical.md",
+      "gitBlobSha1": "e482c2c78a3617fce5b4e039d829d3b0a05f89eb"
+    },
+    {
+      "path": "skills/hyperframes/scripts/bake-basemap.mjs",
+      "gitBlobSha1": "55b14bb387e36fcaab68674a285e661364f6c517"
+    },
+    {
+      "path": "skills/hyperframes/scripts/lib/main-module.mjs",
+      "gitBlobSha1": "5fd2fa9d04a8dd840842d18bd3e889736add9e2d"
+    },
+    {
+      "path": "skills/hyperframes/scripts/lib/main-module.test.mjs",
+      "gitBlobSha1": "680701da1e7a01ea33e313c9ca91a0c3cc96bdcb"
+    },
+    {
+      "path": "skills/hyperframes/scripts/locate.mjs",
+      "gitBlobSha1": "173f0111b26288ab2d17d3bbc0f1996be597755b"
+    },
+    {
+      "path": "skills/hyperframes/scripts/plugin-cli.mjs",
+      "gitBlobSha1": "fee0ceec00a137d0f316d31e0c6a175977e20bde"
+    },
+    {
+      "path": "skills/hyperframes/scripts/plugin-cli.test.mjs",
+      "gitBlobSha1": "d1a42cc5f350b019aae0313f8692f4eb702c0ded"
+    },
+    {
+      "path": "skills/hyperframes/SKILL.md",
+      "gitBlobSha1": "e711653cd6077de0f8c68ed368f9a1fe0f930b1b"
+    },
+    {
+      "path": "skills/hyperframes-cli/references/beats.md",
+      "gitBlobSha1": "2415126c755882bf047107cefe5cd9ded4267e99"
+    },
+    {
+      "path": "skills/hyperframes-cli/references/cloud.md",
+      "gitBlobSha1": "38db59abef72890e0d64a98bea14f588fd793cb2"
+    },
+    {
+      "path": "skills/hyperframes-cli/references/cloudrun.md",
+      "gitBlobSha1": "083a71b625f3c1dc08e7a44d94181f70b96cf8cb"
+    },
+    {
+      "path": "skills/hyperframes-cli/references/compare-and-batch.md",
+      "gitBlobSha1": "7e2a2e0dd33dd01f9673bd3a5d34be89ba6cab99"
+    },
+    {
+      "path": "skills/hyperframes-cli/references/conventions.md",
+      "gitBlobSha1": "982f99527cdcb655fad85b7d6927638a35e8489b"
+    },
+    {
+      "path": "skills/hyperframes-cli/references/doctor-browser.md",
+      "gitBlobSha1": "7b01899eea7c3143dbebcfd182a1c0992d081efc"
+    },
+    {
+      "path": "skills/hyperframes-cli/references/feedback.md",
+      "gitBlobSha1": "76e69ed0484fc5fb60f7280a5d365bb162f3a0c2"
+    },
+    {
+      "path": "skills/hyperframes-cli/references/init-and-scaffold.md",
+      "gitBlobSha1": "e47db20d6038fd61f6ab0f5efc797a0c604fb8ee"
+    },
+    {
+      "path": "skills/hyperframes-cli/references/lambda.md",
+      "gitBlobSha1": "a1985a2b51fcce224614fb43aaa7cf3588d7c5f0"
+    },
+    {
+      "path": "skills/hyperframes-cli/references/lint-validate-inspect.md",
+      "gitBlobSha1": "07b4fb6dd8e9a78202bd6495e91da8d9c0f71b7f"
+    },
+    {
+      "path": "skills/hyperframes-cli/references/preview-render.md",
+      "gitBlobSha1": "3978353d62a5f618b350bbde8a5729babe220757"
+    },
+    {
+      "path": "skills/hyperframes-cli/references/upgrade-info-misc.md",
+      "gitBlobSha1": "67ade4d9540a1bec6f3ea68eafcc33a0dd40bbd7"
+    },
+    {
+      "path": "skills/hyperframes-cli/SKILL.md",
+      "gitBlobSha1": "d65e6fbc66da004e26905fbef63e783a047cb288"
+    },
+    {
+      "path": "skills/hyperframes-registry/examples/add-block.md",
+      "gitBlobSha1": "95bee6ff87928db0f6b3d39008e4f0913600ea79"
+    },
+    {
+      "path": "skills/hyperframes-registry/examples/add-component.md",
+      "gitBlobSha1": "1371289ddfa21b27ec461947686c840f02e3d956"
+    },
+    {
+      "path": "skills/hyperframes-registry/references/component-quality-bar.md",
+      "gitBlobSha1": "c34ec97847059002b7a115b937ab6dfa67495dd3"
+    },
+    {
+      "path": "skills/hyperframes-registry/references/contributing.md",
+      "gitBlobSha1": "de02d476611856493d7419eece0537a8a35775dd"
+    },
+    {
+      "path": "skills/hyperframes-registry/references/demo-html-pattern.md",
+      "gitBlobSha1": "3e53838c10b91dbf5fb196c95cde64bc385d2bc7"
+    },
+    {
+      "path": "skills/hyperframes-registry/references/discovery.md",
+      "gitBlobSha1": "55042430f222176f0a8132c87ceb5407f2c254e6"
+    },
+    {
+      "path": "skills/hyperframes-registry/references/install-locations.md",
+      "gitBlobSha1": "65e3d34e57f1e509f82476992c8d72c05a7106ee"
+    },
+    {
+      "path": "skills/hyperframes-registry/references/placeholder-material.md",
+      "gitBlobSha1": "d6648aafc463a378dd851c36d6cabd8804b476e4"
+    },
+    {
+      "path": "skills/hyperframes-registry/references/search.md",
+      "gitBlobSha1": "a87d4ccb575edbf05ea21abcb654c2bc4299cdfe"
+    },
+    {
+      "path": "skills/hyperframes-registry/references/templates.md",
+      "gitBlobSha1": "8834c959e2d1d02d30e44e0c72d5960619a31c3a"
+    },
+    {
+      "path": "skills/hyperframes-registry/references/wiring-blocks.md",
+      "gitBlobSha1": "d3f4474cfa7af80e157c44c51dd6cb0ce6d1d076"
+    },
+    {
+      "path": "skills/hyperframes-registry/references/wiring-components.md",
+      "gitBlobSha1": "9521a2174a37734efb3de8370224e21647a5655c"
+    },
+    {
+      "path": "skills/hyperframes-registry/SKILL.md",
+      "gitBlobSha1": "f03773cfcd6f71a5722fb1a09639424ed651b43c"
+    },
+    {
+      "path": "skills/media-use/.gitignore",
+      "gitBlobSha1": "17df1e2dbcfacf1e381b6153b10eac6002151231"
+    },
+    {
+      "path": "skills/media-use/audio/assets/sfx/chime.mp3",
+      "gitBlobSha1": "12da953a356a49458d03e09185336d81f4b92f81"
+    },
+    {
+      "path": "skills/media-use/audio/assets/sfx/click-soft.mp3",
+      "gitBlobSha1": "2706b1d2ea64721d1888d15fee2fcc98f0609570"
+    },
+    {
+      "path": "skills/media-use/audio/assets/sfx/click.mp3",
+      "gitBlobSha1": "2706b1d2ea64721d1888d15fee2fcc98f0609570"
+    },
+    {
+      "path": "skills/media-use/audio/assets/sfx/CREDITS.md",
+      "gitBlobSha1": "750d6e83934164d6cb38f6cc96269104dc4695b4"
+    },
+    {
+      "path": "skills/media-use/audio/assets/sfx/error.mp3",
+      "gitBlobSha1": "6b4487ff46c03a883ded41b2ad0bb2830b2dbde6"
+    },
+    {
+      "path": "skills/media-use/audio/assets/sfx/glitch-1.mp3",
+      "gitBlobSha1": "124f4501948aafd03ae655bf11570bfbe47fa704"
+    },
+    {
+      "path": "skills/media-use/audio/assets/sfx/glitch-2.mp3",
+      "gitBlobSha1": "580b6fdc4f665660b2c74872a0bcdccf826222be"
+    },
+    {
+      "path": "skills/media-use/audio/assets/sfx/glitch-3.mp3",
+      "gitBlobSha1": "5a8adc2442314cf79e6e1fb25598d0149afbd421"
+    },
+    {
+      "path": "skills/media-use/audio/assets/sfx/impact-bass-1.mp3",
+      "gitBlobSha1": "ecfe0c48a672e77c98afac6810fd4c446dde94b0"
+    },
+    {
+      "path": "skills/media-use/audio/assets/sfx/impact-bass-2.mp3",
+      "gitBlobSha1": "4ae448b58a5011e4aaeeab3cbcaf0e4a0d59cd86"
+    },
+    {
+      "path": "skills/media-use/audio/assets/sfx/key-press.mp3",
+      "gitBlobSha1": "d669006e01071d57b3ee7c8ada064a2bf6b7dddc"
+    },
+    {
+      "path": "skills/media-use/audio/assets/sfx/manifest.json",
+      "gitBlobSha1": "7db0ad7ca58f8ebcebb813a253c47b039ef2b9ec"
+    },
+    {
+      "path": "skills/media-use/audio/assets/sfx/notification.mp3",
+      "gitBlobSha1": "d3f0d1fa22dde07ae601b20cbafb9cc1274dafeb"
+    },
+    {
+      "path": "skills/media-use/audio/assets/sfx/ping.mp3",
+      "gitBlobSha1": "99808c8b6399ffa82a074ffeb0f180ec9afd3920"
+    },
+    {
+      "path": "skills/media-use/audio/assets/sfx/pop.mp3",
+      "gitBlobSha1": "e3ed16fef09641bbd7c0d53f508c71d6af863efb"
+    },
+    {
+      "path": "skills/media-use/audio/assets/sfx/riser.mp3",
+      "gitBlobSha1": "0cea32c08dc8524cd592d6779165157115cb6dc2"
+    },
+    {
+      "path": "skills/media-use/audio/assets/sfx/sparkle.mp3",
+      "gitBlobSha1": "dae37802ff423cfb82a259a60812a83e5397a520"
+    },
+    {
+      "path": "skills/media-use/audio/assets/sfx/typing.mp3",
+      "gitBlobSha1": "ff69cc04200bb1af6e0785a801ca4d77281b4fce"
+    },
+    {
+      "path": "skills/media-use/audio/assets/sfx/whoosh-cinematic.mp3",
+      "gitBlobSha1": "93b721800780ac4fe5e1847bb58dc60248db2402"
+    },
+    {
+      "path": "skills/media-use/audio/assets/sfx/whoosh-short.mp3",
+      "gitBlobSha1": "e23e513d273009fbf48e8bcd44f65953e38bc3b0"
+    },
+    {
+      "path": "skills/media-use/audio/assets/sfx/whoosh.mp3",
+      "gitBlobSha1": "e23e513d273009fbf48e8bcd44f65953e38bc3b0"
+    },
+    {
+      "path": "skills/media-use/audio/references/bgm.md",
+      "gitBlobSha1": "c8811ac2e8f142142a45cef43cc2560d8c5270f9"
+    },
+    {
+      "path": "skills/media-use/audio/references/captions/authoring.md",
+      "gitBlobSha1": "45944775b2b97a6866baa58eb84e83d1196935d2"
+    },
+    {
+      "path": "skills/media-use/audio/references/captions/motion.md",
+      "gitBlobSha1": "72446cf312f9dec4128047b34c29fcfad507b11f"
+    },
+    {
+      "path": "skills/media-use/audio/references/captions/transcript-handling.md",
+      "gitBlobSha1": "3a87d6410f73db41b880bd329b0539d5ad30834c"
+    },
+    {
+      "path": "skills/media-use/audio/references/remove-background.md",
+      "gitBlobSha1": "7ba4e32c3d71d9b3451323047168d8f941aa6d19"
+    },
+    {
+      "path": "skills/media-use/audio/references/requirements.md",
+      "gitBlobSha1": "0f77c9004a5800d8f0217dbe529e9fa5f590ba4d"
+    },
+    {
+      "path": "skills/media-use/audio/references/sfx.md",
+      "gitBlobSha1": "bdb17c277d0110fd6f54ad7a32b6ff163a223657"
+    },
+    {
+      "path": "skills/media-use/audio/references/transcribe.md",
+      "gitBlobSha1": "59d9c488617eb9d72edc56b377f537a03c7f3f7c"
+    },
+    {
+      "path": "skills/media-use/audio/references/tts-to-captions.md",
+      "gitBlobSha1": "4b99fa0a8ccaeb5b81ddbc4b700ccc571a4c859b"
+    },
+    {
+      "path": "skills/media-use/audio/references/tts.md",
+      "gitBlobSha1": "99e28b691f89383420a9c87e9005819499d20ced"
+    },
+    {
+      "path": "skills/media-use/audio/scripts/audio.mjs",
+      "gitBlobSha1": "3d7a96badf628f8a848a843e6ff739972fbbc53e"
+    },
+    {
+      "path": "skills/media-use/audio/scripts/audio.test.mjs",
+      "gitBlobSha1": "3b82ae9a62da69d31eb3629427bd005ef7de86f9"
+    },
+    {
+      "path": "skills/media-use/audio/scripts/carve.mjs",
+      "gitBlobSha1": "4649117fee12f63fe865eccb851bce226b37273b"
+    },
+    {
+      "path": "skills/media-use/audio/scripts/carve.test.mjs",
+      "gitBlobSha1": "bb85137d2305784c94aea7eaa3f57b822d655ac0"
+    },
+    {
+      "path": "skills/media-use/audio/scripts/extract-audio-data.py",
+      "gitBlobSha1": "b76ad9959354ec4a6382fcfc434f379f811f5bf6"
+    },
+    {
+      "path": "skills/media-use/audio/scripts/gemini-pipeline.test.mjs",
+      "gitBlobSha1": "a277457d9d55e81724700ffa0c447a857e995572"
+    },
+    {
+      "path": "skills/media-use/audio/scripts/heygen-tts.mjs",
+      "gitBlobSha1": "c0ab58a8c2b8eb27f3752dc1611e748b465634dc"
+    },
+    {
+      "path": "skills/media-use/audio/scripts/heygen-tts.test.mjs",
+      "gitBlobSha1": "1730ba8023a4044be781635aae07ab5f9585757b"
+    },
+    {
+      "path": "skills/media-use/audio/scripts/heygen-voice.mjs",
+      "gitBlobSha1": "0e25377f515155f1c7e0c1257a48fb3de5bd22ad"
+    },
+    {
+      "path": "skills/media-use/audio/scripts/heygen-voice.test.mjs",
+      "gitBlobSha1": "717b1b12740d796af3ac642ee20aa60747c85e15"
+    },
+    {
+      "path": "skills/media-use/audio/scripts/lib/audio-meta.mjs",
+      "gitBlobSha1": "f3c032a9c4313e4731bcb7c599ae25b8229e0ca4"
+    },
+    {
+      "path": "skills/media-use/audio/scripts/lib/audio-meta.test.mjs",
+      "gitBlobSha1": "3eb80dfee663d4c4113dc3dfd0f4914e31f8a5da"
+    },
+    {
+      "path": "skills/media-use/audio/scripts/lib/bgm-volume.mjs",
+      "gitBlobSha1": "52ea0ced7d23a597cc35c2b79f711b27977b1a3a"
+    },
+    {
+      "path": "skills/media-use/audio/scripts/lib/bgm.mjs",
+      "gitBlobSha1": "d23c8c0b6572f7c83220138c87aa23fb95225531"
+    },
+    {
+      "path": "skills/media-use/audio/scripts/lib/bgm.test.mjs",
+      "gitBlobSha1": "a31f6e72c645328fc7af8233e39fce611cadaff8"
+    },
+    {
+      "path": "skills/media-use/audio/scripts/lib/concurrency.mjs",
+      "gitBlobSha1": "4988b619202f15a6002be7475bc80408f8b0c0f2"
+    },
+    {
+      "path": "skills/media-use/audio/scripts/lib/concurrency.test.mjs",
+      "gitBlobSha1": "d033860b86823c7473cd096fcbbe8b9f3d5e6ce7"
+    },
+    {
+      "path": "skills/media-use/audio/scripts/lib/gemini-auth.mjs",
+      "gitBlobSha1": "e20a6a44d19101814964c335be8767e71203c154"
+    },
+    {
+      "path": "skills/media-use/audio/scripts/lib/gemini-auth.py",
+      "gitBlobSha1": "db5b3b2c0611f366ea4ff601cc7e652574505277"
+    },
+    {
+      "path": "skills/media-use/audio/scripts/lib/gemini-auth.test.mjs",
+      "gitBlobSha1": "a7720e85c176dd676a276f71f0f69194fa97d705"
+    },
+    {
+      "path": "skills/media-use/audio/scripts/lib/gemini-auth_test.py",
+      "gitBlobSha1": "598d4b4a92fcac6ac7cbce1ace6f50c6fb3f8689"
+    },
+    {
+      "path": "skills/media-use/audio/scripts/lib/gemini-tts.mjs",
+      "gitBlobSha1": "b7c3d0c2e44c32ab475108a41da5892431ee3ff6"
+    },
+    {
+      "path": "skills/media-use/audio/scripts/lib/gemini-tts.test.mjs",
+      "gitBlobSha1": "fc616931388ea7b0faa3829618b580a922ea9586"
+    },
+    {
+      "path": "skills/media-use/audio/scripts/lib/heygen.mjs",
+      "gitBlobSha1": "bca65daf7f780c4d69efe97fc0702baed76f2009"
+    },
+    {
+      "path": "skills/media-use/audio/scripts/lib/heygen.test.mjs",
+      "gitBlobSha1": "cbee44794aace0de1938e2e6db7766dba85b5c90"
+    },
+    {
+      "path": "skills/media-use/audio/scripts/lib/main-module.mjs",
+      "gitBlobSha1": "5fd2fa9d04a8dd840842d18bd3e889736add9e2d"
+    },
+    {
+      "path": "skills/media-use/audio/scripts/lib/media-record.mjs",
+      "gitBlobSha1": "888bf5d6f88856f33480546b34683d25f04ceabe"
+    },
+    {
+      "path": "skills/media-use/audio/scripts/lib/media-record.test.mjs",
+      "gitBlobSha1": "e3ea9e83533f3a60d3934841d968d949ee9e3ba8"
+    },
+    {
+      "path": "skills/media-use/audio/scripts/lib/openverse.mjs",
+      "gitBlobSha1": "87f80aa74d548f9ebe1cff2408f7f5e477e2a3da"
+    },
+    {
+      "path": "skills/media-use/audio/scripts/lib/python.mjs",
+      "gitBlobSha1": "f5cd7fe6c7db1454153dfd5ac17718f2b3abf0d1"
+    },
+    {
+      "path": "skills/media-use/audio/scripts/lib/python.test.mjs",
+      "gitBlobSha1": "babea4efc6235aa98d2f64f43ae7e090c2017d75"
+    },
+    {
+      "path": "skills/media-use/audio/scripts/lib/recording.mjs",
+      "gitBlobSha1": "a92e554ba37d0f311cf2fb2f1f55da5ee379243f"
+    },
+    {
+      "path": "skills/media-use/audio/scripts/lib/sfx.mjs",
+      "gitBlobSha1": "4333e4bb82218e8b566e9381846302a8cf5e6d99"
+    },
+    {
+      "path": "skills/media-use/audio/scripts/lib/sfx.test.mjs",
+      "gitBlobSha1": "2b437d640e07c30188b54c5a19c6ffc20ae1c668"
+    },
+    {
+      "path": "skills/media-use/audio/scripts/lib/tts.cleanup.test.mjs",
+      "gitBlobSha1": "1275e60706c9accaaa1f785dca86fe42242679d4"
+    },
+    {
+      "path": "skills/media-use/audio/scripts/lib/tts.mjs",
+      "gitBlobSha1": "dfc5ba1b4eb9797eb4c964cf85fe0974d22a527d"
+    },
+    {
+      "path": "skills/media-use/audio/scripts/lib/tts.spawn.test.mjs",
+      "gitBlobSha1": "b8e6b49a9bf8ab9af47db9d24f14a9fb7c79dcea"
+    },
+    {
+      "path": "skills/media-use/audio/scripts/lib/tts.test.mjs",
+      "gitBlobSha1": "93b0d746da1f8179e3ebbdac0bd1ac466fc5a15b"
+    },
+    {
+      "path": "skills/media-use/audio/scripts/lib/voice-credit.mjs",
+      "gitBlobSha1": "8adf3e62729fa414dc4c6d0a76a3a187aed9635a"
+    },
+    {
+      "path": "skills/media-use/audio/scripts/lib/voice-credit.test.mjs",
+      "gitBlobSha1": "f6f79cf9988654fcbed7f2e52539aaeb758822b2"
+    },
+    {
+      "path": "skills/media-use/audio/scripts/lyria-recipe.py",
+      "gitBlobSha1": "5fdf7d3df13346a1dc1ee06ef1b87a3439bf0507"
+    },
+    {
+      "path": "skills/media-use/audio/scripts/recording.test.mjs",
+      "gitBlobSha1": "b78501a214263616cc89c33ff6ce7feca38a84e8"
+    },
+    {
+      "path": "skills/media-use/audio/scripts/wait-bgm.mjs",
+      "gitBlobSha1": "02bd1d6ac426b089a284ee94b4c7879d6032fcd7"
+    },
+    {
+      "path": "skills/media-use/audio/scripts/wait-bgm.test.mjs",
+      "gitBlobSha1": "eb2fb226b88d773059cb6877d82ed9ee90efe740"
+    },
+    {
+      "path": "skills/media-use/luts/index.json",
+      "gitBlobSha1": "9f6725c4a7c80c4b368a01196f57c0dcdc3a44c1"
+    },
+    {
+      "path": "skills/media-use/luts/README.md",
+      "gitBlobSha1": "dc3ed9ae55b6909732ca8f06cf8c89dc99da2bc6"
+    },
+    {
+      "path": "skills/media-use/references/audio.md",
+      "gitBlobSha1": "4a4df4ae81ed47588d3bf7f32293db665a304b33"
+    },
+    {
+      "path": "skills/media-use/references/grading.md",
+      "gitBlobSha1": "f1fadff29f4ac1c4f3104094870ed28943d1da13"
+    },
+    {
+      "path": "skills/media-use/references/heygen.md",
+      "gitBlobSha1": "48544a30e9f5eebff2c1fd2881d233c354796fa1"
+    },
+    {
+      "path": "skills/media-use/references/local.md",
+      "gitBlobSha1": "5c9576ddddce444dfa65843077dd38c9bf658822"
+    },
+    {
+      "path": "skills/media-use/references/media-treatment-recipes.md",
+      "gitBlobSha1": "86517df0839d446e33d7d935c2f47885f45aee9f"
+    },
+    {
+      "path": "skills/media-use/references/media-treatments.md",
+      "gitBlobSha1": "846dc9fdf599b49ac6cea80b6536edd820399ff9"
+    },
+    {
+      "path": "skills/media-use/references/memory.md",
+      "gitBlobSha1": "9c749f87dca8d0ed87b145a888913cbbe25bc2a5"
+    },
+    {
+      "path": "skills/media-use/references/meta.md",
+      "gitBlobSha1": "f657e1663d7e2207b7e01d26501a3e4e7551df26"
+    },
+    {
+      "path": "skills/media-use/references/mixing.md",
+      "gitBlobSha1": "8215001560dd8c85f6a995a7525b7877532b0376"
+    },
+    {
+      "path": "skills/media-use/references/operations.md",
+      "gitBlobSha1": "6248ad19d6ee25fec4cf23cc928bdf8bc4327137"
+    },
+    {
+      "path": "skills/media-use/references/resolve.md",
+      "gitBlobSha1": "6688a005e83727d271be234d649e8fb20ff594ce"
+    },
+    {
+      "path": "skills/media-use/references/setup-providers.md",
+      "gitBlobSha1": "5660c4232defb55199b303919e40e3b9525e0b90"
+    },
+    {
+      "path": "skills/media-use/references/telemetry-dashboard.md",
+      "gitBlobSha1": "e0aac2de532581919f83447245a18f32bda995ef"
+    },
+    {
+      "path": "skills/media-use/scripts/audio-duck.mjs",
+      "gitBlobSha1": "e797515ad8530cc862e76c6b997610d96a115d39"
+    },
+    {
+      "path": "skills/media-use/scripts/compatibility.test.mjs",
+      "gitBlobSha1": "1250e97f7641ec1bedd8227722b586995b4ce666"
+    },
+    {
+      "path": "skills/media-use/scripts/dither.mjs",
+      "gitBlobSha1": "7e4bfef6ff2eee1fcf2b2b0c489edc37f9f4b138"
+    },
+    {
+      "path": "skills/media-use/scripts/dither.test.mjs",
+      "gitBlobSha1": "1e2d61f270e063734e64a6f2ba5ac62c58cae896"
+    },
+    {
+      "path": "skills/media-use/scripts/eval.mjs",
+      "gitBlobSha1": "7184c6fc1538ab41864dd94a54dc40f52ce22f1d"
+    },
+    {
+      "path": "skills/media-use/scripts/lib/config-lock.mjs",
+      "gitBlobSha1": "dd5c5ca9c4d72d4cf4d99d1864174e767429d96a"
+    },
+    {
+      "path": "skills/media-use/scripts/lib/credit-limit.mjs",
+      "gitBlobSha1": "02e44c6d5faf247616a731d8d965d221fa89686f"
+    },
+    {
+      "path": "skills/media-use/scripts/lib/cutlist.mjs",
+      "gitBlobSha1": "9cc7d139b6562dc710d8e00b4ccff439205d86d8"
+    },
+    {
+      "path": "skills/media-use/scripts/lib/duck.mjs",
+      "gitBlobSha1": "8541f5896873846f524c39b4f3934d008c73bd8a"
+    },
+    {
+      "path": "skills/media-use/scripts/lib/error-diffusion.mjs",
+      "gitBlobSha1": "e59a9c5ab600ba4b32dec45ff2d229778004da64"
+    },
+    {
+      "path": "skills/media-use/scripts/lib/index-gen.mjs",
+      "gitBlobSha1": "c25ee6d264b5dd787f598ddd8f247efab69c298c"
+    },
+    {
+      "path": "skills/media-use/scripts/lib/manifest.mjs",
+      "gitBlobSha1": "d4b6e4f87105b46ddef0e3989f3c8bc372dc62b5"
+    },
+    {
+      "path": "skills/media-use/scripts/lib/media-fetch.mjs",
+      "gitBlobSha1": "7664c2af5f0cab7cb4d2aed4d8f9269ca9d51aef"
+    },
+    {
+      "path": "skills/media-use/scripts/lib/media-home.mjs",
+      "gitBlobSha1": "8a9128fd3bf2df83ab4e1e59ce008ce7b075910e"
+    },
+    {
+      "path": "skills/media-use/scripts/lib/npx-sync.mjs",
+      "gitBlobSha1": "b1049cd2b8c5ff911839f68fc5303e0e42d80a4a"
+    },
+    {
+      "path": "skills/media-use/scripts/lib/parakeet-words.mjs",
+      "gitBlobSha1": "04df79c7d4b1da6c6da51248fd817e1029c2bee7"
+    },
+    {
+      "path": "skills/media-use/scripts/lib/prefs-store.mjs",
+      "gitBlobSha1": "36f87d9edabce436d50a9d0d48fa3631b6b2d955"
+    },
+    {
+      "path": "skills/media-use/scripts/lib/recipe-store.mjs",
+      "gitBlobSha1": "9e1ac57487c52628c7ad482951e993bdca908cd2"
+    },
+    {
+      "path": "skills/media-use/scripts/lib/telemetry.mjs",
+      "gitBlobSha1": "ed74b77066002160d992faa936adb8a349575a47"
+    },
+    {
+      "path": "skills/media-use/scripts/lib/telemetry.test.mjs",
+      "gitBlobSha1": "d2d39f9849b46f6f4e94c196b38992ecfc5a51d0"
+    },
+    {
+      "path": "skills/media-use/scripts/lib/transcriptCutFade.mjs",
+      "gitBlobSha1": "bc1676074abdddc0574ccf073a95cc5b32eeff99"
+    },
+    {
+      "path": "skills/media-use/scripts/lib/words.mjs",
+      "gitBlobSha1": "e062ecbfefe9e0d2c498b65fbb82f944dda59619"
+    },
+    {
+      "path": "skills/media-use/scripts/prefs.mjs",
+      "gitBlobSha1": "6334130c1087b32506fc03d1920e12b61e00146c"
+    },
+    {
+      "path": "skills/media-use/scripts/recipe.mjs",
+      "gitBlobSha1": "12d5dde7cd6ba62981d5bce74dae1cda281b8937"
+    },
+    {
+      "path": "skills/media-use/scripts/resolve-plugin.test.mjs",
+      "gitBlobSha1": "8460ee812f22db91343dcd29835fccc4fea15e27"
+    },
+    {
+      "path": "skills/media-use/scripts/resolve.mjs",
+      "gitBlobSha1": "a2a0b9ba16327ad57f3e627bbc4f3feb904f8087"
+    },
+    {
+      "path": "skills/media-use/scripts/transcribe.mjs",
+      "gitBlobSha1": "ccf9b244dc385ce530c3620a691c3878720d42d6"
+    },
+    {
+      "path": "skills/media-use/scripts/transcribe.test.mjs",
+      "gitBlobSha1": "3f0d2a53b11da8ee1ea59bf3b6e101298a0433bc"
+    },
+    {
+      "path": "skills/media-use/scripts/transcript-cut.mjs",
+      "gitBlobSha1": "eb0bcbfaf09ca725a6937fc68bb585041d8d1354"
+    },
+    {
+      "path": "skills/media-use/scripts/transcript-cut.test.mjs",
+      "gitBlobSha1": "95852adb825d0f7128d51fec4938eb2ce4e839aa"
+    },
+    {
+      "path": "skills/media-use/SKILL.md",
+      "gitBlobSha1": "33cd49a5a3fd561f5ec7148f9bc8ecd691079467"
+    },
+    {
+      "path": "skills/remotion-to-hyperframes/assets/.gitkeep",
+      "gitBlobSha1": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+    },
+    {
+      "path": "skills/remotion-to-hyperframes/assets/test-corpus/.gitignore",
+      "gitBlobSha1": "89d8102e436a750c6c2fa436ff0eae9c1cf21a11"
+    },
+    {
+      "path": "skills/remotion-to-hyperframes/assets/test-corpus/run.sh",
+      "gitBlobSha1": "ecfa913844aa195bdb39d0604a54cc2538d3084d"
+    },
+    {
+      "path": "skills/remotion-to-hyperframes/assets/test-corpus/tier-1-title-card/.gitignore",
+      "gitBlobSha1": "d45877158704c5d5ba94f6ab4cb3011aa3c376b8"
+    },
+    {
+      "path": "skills/remotion-to-hyperframes/assets/test-corpus/tier-1-title-card/expected.json",
+      "gitBlobSha1": "4565c532c60a49bbf09137aff407a09d32f62101"
+    },
+    {
+      "path": "skills/remotion-to-hyperframes/assets/test-corpus/tier-1-title-card/hf-src/compositions/title.html",
+      "gitBlobSha1": "d2287080813236e479c2cbc2d599ec600cb6a870"
+    },
+    {
+      "path": "skills/remotion-to-hyperframes/assets/test-corpus/tier-1-title-card/hf-src/index.html",
+      "gitBlobSha1": "d57bac80ecf1922b80076c0e967b800c0f990234"
+    },
+    {
+      "path": "skills/remotion-to-hyperframes/assets/test-corpus/tier-1-title-card/README.md",
+      "gitBlobSha1": "56a13963694244c83be50ad09661c63fa54ad571"
+    },
+    {
+      "path": "skills/remotion-to-hyperframes/assets/test-corpus/tier-1-title-card/remotion-src/package.json",
+      "gitBlobSha1": "1c33b63b42205ab6fd3b6a252bbc4dbb2fcf15d0"
+    },
+    {
+      "path": "skills/remotion-to-hyperframes/assets/test-corpus/tier-1-title-card/remotion-src/remotion.config.ts",
+      "gitBlobSha1": "a22cafc5e2087cd4816063e3d2a054f39b7b4ec9"
+    },
+    {
+      "path": "skills/remotion-to-hyperframes/assets/test-corpus/tier-1-title-card/remotion-src/src/index.ts",
+      "gitBlobSha1": "f31c790edb3e2f1611a701c7637cc396353d1ff7"
+    },
+    {
+      "path": "skills/remotion-to-hyperframes/assets/test-corpus/tier-1-title-card/remotion-src/src/Root.tsx",
+      "gitBlobSha1": "f8dd727705610772456a6fc862bec089cd245ae8"
+    },
+    {
+      "path": "skills/remotion-to-hyperframes/assets/test-corpus/tier-1-title-card/remotion-src/src/TitleCard.tsx",
+      "gitBlobSha1": "924557fffab2f3f518bb661ec892fd7cf458a83c"
+    },
+    {
+      "path": "skills/remotion-to-hyperframes/assets/test-corpus/tier-1-title-card/remotion-src/tsconfig.json",
+      "gitBlobSha1": "eb6f0f806538ff0e3cd203d339f52f836c6040ab"
+    },
+    {
+      "path": "skills/remotion-to-hyperframes/assets/test-corpus/tier-2-multi-scene/.gitignore",
+      "gitBlobSha1": "def72ea0190faeb1b758f0e213d7f7399ea36f05"
+    },
+    {
+      "path": "skills/remotion-to-hyperframes/assets/test-corpus/tier-2-multi-scene/expected.json",
+      "gitBlobSha1": "df13d4b6dbd8060114cc21a0792b9b67a1af4880"
+    },
+    {
+      "path": "skills/remotion-to-hyperframes/assets/test-corpus/tier-2-multi-scene/hf-src/compositions/scene-1.html",
+      "gitBlobSha1": "a980273b77b682eb0ed3f8cb3339e852b7fd3f24"
+    },
+    {
+      "path": "skills/remotion-to-hyperframes/assets/test-corpus/tier-2-multi-scene/hf-src/compositions/scene-2.html",
+      "gitBlobSha1": "d2b1b3be9cef1f5de06eeb5c6de69e4734068b6e"
+    },
+    {
+      "path": "skills/remotion-to-hyperframes/assets/test-corpus/tier-2-multi-scene/hf-src/compositions/scene-3.html",
+      "gitBlobSha1": "3a5b1fbd438e2dbd03bf393afaeebc79a4bce2c3"
+    },
+    {
+      "path": "skills/remotion-to-hyperframes/assets/test-corpus/tier-2-multi-scene/hf-src/index.html",
+      "gitBlobSha1": "4662a281b04c7ea25fe4329d8328392454dcf457"
+    },
+    {
+      "path": "skills/remotion-to-hyperframes/assets/test-corpus/tier-2-multi-scene/README.md",
+      "gitBlobSha1": "59bf7905de929e735f923688919b7f50913ad79c"
+    },
+    {
+      "path": "skills/remotion-to-hyperframes/assets/test-corpus/tier-2-multi-scene/remotion-src/package.json",
+      "gitBlobSha1": "88b08833aee1e8afc19d01f2e030f98a47cb0801"
+    },
+    {
+      "path": "skills/remotion-to-hyperframes/assets/test-corpus/tier-2-multi-scene/remotion-src/remotion.config.ts",
+      "gitBlobSha1": "a22cafc5e2087cd4816063e3d2a054f39b7b4ec9"
+    },
+    {
+      "path": "skills/remotion-to-hyperframes/assets/test-corpus/tier-2-multi-scene/remotion-src/src/index.ts",
+      "gitBlobSha1": "f31c790edb3e2f1611a701c7637cc396353d1ff7"
+    },
+    {
+      "path": "skills/remotion-to-hyperframes/assets/test-corpus/tier-2-multi-scene/remotion-src/src/MultiScene.tsx",
+      "gitBlobSha1": "362d967fa6b18812166074964d2d270c3fabd767"
+    },
+    {
+      "path": "skills/remotion-to-hyperframes/assets/test-corpus/tier-2-multi-scene/remotion-src/src/Root.tsx",
+      "gitBlobSha1": "37703e9cd15e32d741ea36dc8c024f40647644aa"
+    },
+    {
+      "path": "skills/remotion-to-hyperframes/assets/test-corpus/tier-2-multi-scene/remotion-src/tsconfig.json",
+      "gitBlobSha1": "eb6f0f806538ff0e3cd203d339f52f836c6040ab"
+    },
+    {
+      "path": "skills/remotion-to-hyperframes/assets/test-corpus/tier-2-multi-scene/setup.sh",
+      "gitBlobSha1": "918212337d447e5cbb20b8c2066b726a6b9f58fb"
+    },
+    {
+      "path": "skills/remotion-to-hyperframes/assets/test-corpus/tier-3-data-driven/.gitignore",
+      "gitBlobSha1": "d45877158704c5d5ba94f6ab4cb3011aa3c376b8"
+    },
+    {
+      "path": "skills/remotion-to-hyperframes/assets/test-corpus/tier-3-data-driven/expected.json",
+      "gitBlobSha1": "95ab40d1700a720039410e57a686dcc592bd59a9"
+    },
+    {
+      "path": "skills/remotion-to-hyperframes/assets/test-corpus/tier-3-data-driven/hf-src/compositions/scene-1.html",
+      "gitBlobSha1": "01aaf9d5e57b07930b3d01cd10cc44a0864d5eb2"
+    },
+    {
+      "path": "skills/remotion-to-hyperframes/assets/test-corpus/tier-3-data-driven/hf-src/compositions/scene-2.html",
+      "gitBlobSha1": "1ecb7e1d48a59731b69b8cb8d0b9efd7aa958d96"
+    },
+    {
+      "path": "skills/remotion-to-hyperframes/assets/test-corpus/tier-3-data-driven/hf-src/compositions/scene-3.html",
+      "gitBlobSha1": "872c0c2802c673ac82ce59584fc826eb34ea1591"
+    },
+    {
+      "path": "skills/remotion-to-hyperframes/assets/test-corpus/tier-3-data-driven/hf-src/index.html",
+      "gitBlobSha1": "5def2fcbdec125402158b53129997a6170038985"
+    },
+    {
+      "path": "skills/remotion-to-hyperframes/assets/test-corpus/tier-3-data-driven/README.md",
+      "gitBlobSha1": "6357094ede20547d2aec74839bf7a874b79037b3"
+    },
+    {
+      "path": "skills/remotion-to-hyperframes/assets/test-corpus/tier-3-data-driven/remotion-src/package.json",
+      "gitBlobSha1": "d5acfc24d132bf292546940326229f2c2f639909"
+    },
+    {
+      "path": "skills/remotion-to-hyperframes/assets/test-corpus/tier-3-data-driven/remotion-src/remotion.config.ts",
+      "gitBlobSha1": "a22cafc5e2087cd4816063e3d2a054f39b7b4ec9"
+    },
+    {
+      "path": "skills/remotion-to-hyperframes/assets/test-corpus/tier-3-data-driven/remotion-src/src/components/AnimatedNumber.tsx",
+      "gitBlobSha1": "d1a03f5e707524c97ae7b79a2b2c74dfc2488527"
+    },
+    {
+      "path": "skills/remotion-to-hyperframes/assets/test-corpus/tier-3-data-driven/remotion-src/src/components/StatCard.tsx",
+      "gitBlobSha1": "7de79fc4398c85a3c7a1bd5dbf1854a33fd27297"
+    },
+    {
+      "path": "skills/remotion-to-hyperframes/assets/test-corpus/tier-3-data-driven/remotion-src/src/components/UnderlinedText.tsx",
+      "gitBlobSha1": "38800f42ca3c08a2e20ae851cc0fe8a180c60171"
+    },
+    {
+      "path": "skills/remotion-to-hyperframes/assets/test-corpus/tier-3-data-driven/remotion-src/src/index.ts",
+      "gitBlobSha1": "f31c790edb3e2f1611a701c7637cc396353d1ff7"
+    },
+    {
+      "path": "skills/remotion-to-hyperframes/assets/test-corpus/tier-3-data-driven/remotion-src/src/Root.tsx",
+      "gitBlobSha1": "5932bcd458ca40f73173fa12d4ab0cef997e5e58"
+    },
+    {
+      "path": "skills/remotion-to-hyperframes/assets/test-corpus/tier-3-data-driven/remotion-src/src/scenes/OutroScene.tsx",
+      "gitBlobSha1": "3121b49dd4f2d8ad6a4358c13d2cd6d60bd34762"
+    },
+    {
+      "path": "skills/remotion-to-hyperframes/assets/test-corpus/tier-3-data-driven/remotion-src/src/scenes/StatsScene.tsx",
+      "gitBlobSha1": "aeb6878a47d4136de072a117490a8dad343d0ff6"
+    },
+    {
+      "path": "skills/remotion-to-hyperframes/assets/test-corpus/tier-3-data-driven/remotion-src/src/scenes/TitleScene.tsx",
+      "gitBlobSha1": "12d00038838a405d2c935485779fee632f005adb"
+    },
+    {
+      "path": "skills/remotion-to-hyperframes/assets/test-corpus/tier-3-data-driven/remotion-src/src/Stargazed.tsx",
+      "gitBlobSha1": "4579c6d9aa0691d5d4b5f112f4758c7240eea765"
+    },
+    {
+      "path": "skills/remotion-to-hyperframes/assets/test-corpus/tier-3-data-driven/remotion-src/tsconfig.json",
+      "gitBlobSha1": "eb6f0f806538ff0e3cd203d339f52f836c6040ab"
+    },
+    {
+      "path": "skills/remotion-to-hyperframes/assets/test-corpus/tier-4-escape-hatch/cases/01-use-state.tsx",
+      "gitBlobSha1": "d022bb277ab00d1b8e362dca824582efd2826d4c"
+    },
+    {
+      "path": "skills/remotion-to-hyperframes/assets/test-corpus/tier-4-escape-hatch/cases/02-use-effect-deps.tsx",
+      "gitBlobSha1": "270a65fa6c47e201892fee66f73a75f4580b2495"
+    },
+    {
+      "path": "skills/remotion-to-hyperframes/assets/test-corpus/tier-4-escape-hatch/cases/03-async-metadata.tsx",
+      "gitBlobSha1": "c1ecbbbc8525049cafc35c736c611e780712f40f"
+    },
+    {
+      "path": "skills/remotion-to-hyperframes/assets/test-corpus/tier-4-escape-hatch/cases/04-third-party-react.tsx",
+      "gitBlobSha1": "5787c489122b6e6ccba4445377a06093bb96b22e"
+    },
+    {
+      "path": "skills/remotion-to-hyperframes/assets/test-corpus/tier-4-escape-hatch/cases/05-lambda-config.tsx",
+      "gitBlobSha1": "e4cdb2c0077ac862bb3372eef7e5aa7859f6958f"
+    },
+    {
+      "path": "skills/remotion-to-hyperframes/assets/test-corpus/tier-4-escape-hatch/cases/06-warnings-only.tsx",
+      "gitBlobSha1": "eecf8326100a0bcd615201aff4abc03d65f6627c"
+    },
+    {
+      "path": "skills/remotion-to-hyperframes/assets/test-corpus/tier-4-escape-hatch/cases/07-custom-hook.tsx",
+      "gitBlobSha1": "7ebcf9cf5b76aea9931df99b357611aa093b90c6"
+    },
+    {
+      "path": "skills/remotion-to-hyperframes/assets/test-corpus/tier-4-escape-hatch/cases/08-mixed.tsx",
+      "gitBlobSha1": "68d918280f2f0cb35ea404451c3620551bce5d6a"
+    },
+    {
+      "path": "skills/remotion-to-hyperframes/assets/test-corpus/tier-4-escape-hatch/expected.json",
+      "gitBlobSha1": "94a494e6c499d12013dec3cc4ce497b13c55337c"
+    },
+    {
+      "path": "skills/remotion-to-hyperframes/assets/test-corpus/tier-4-escape-hatch/README.md",
+      "gitBlobSha1": "ac36e230d34e964cbf9105a584642da5f53cb12c"
+    },
+    {
+      "path": "skills/remotion-to-hyperframes/assets/test-corpus/tier-4-escape-hatch/validate.sh",
+      "gitBlobSha1": "e7180f48c78421d7505147273eab617005fb2511"
+    },
+    {
+      "path": "skills/remotion-to-hyperframes/references/api-map.md",
+      "gitBlobSha1": "83aede4af0719d0baae505284935df713046619c"
+    },
+    {
+      "path": "skills/remotion-to-hyperframes/references/escape-hatch.md",
+      "gitBlobSha1": "9dd0fa445226596451a3ded2b683b98424b02e9b"
+    },
+    {
+      "path": "skills/remotion-to-hyperframes/references/eval.md",
+      "gitBlobSha1": "9f16ed01457c600dbc4fea4ba9c698e917a775e0"
+    },
+    {
+      "path": "skills/remotion-to-hyperframes/references/fonts.md",
+      "gitBlobSha1": "56c92983be34ee5f7aa038898dc773899ca5b5d8"
+    },
+    {
+      "path": "skills/remotion-to-hyperframes/references/limitations.md",
+      "gitBlobSha1": "f40d99a109ea64fe20f522629cb93c8d26a21b63"
+    },
+    {
+      "path": "skills/remotion-to-hyperframes/references/lottie.md",
+      "gitBlobSha1": "70dc006d2691549e7fcb21842b79f6e757d4866a"
+    },
+    {
+      "path": "skills/remotion-to-hyperframes/references/media.md",
+      "gitBlobSha1": "8354183a3196dfb83c802a07fa314497afa1384e"
+    },
+    {
+      "path": "skills/remotion-to-hyperframes/references/parameters.md",
+      "gitBlobSha1": "f7a5264f72cb8e807279d301100c03da295868b3"
+    },
+    {
+      "path": "skills/remotion-to-hyperframes/references/sequencing.md",
+      "gitBlobSha1": "9b828620f1c9b4b1712db43cf8e741a33b983ef8"
+    },
+    {
+      "path": "skills/remotion-to-hyperframes/references/timing.md",
+      "gitBlobSha1": "2120d5df847ceac4a0d8685c801cd59d07ddf5f5"
+    },
+    {
+      "path": "skills/remotion-to-hyperframes/references/transitions.md",
+      "gitBlobSha1": "223cc7ff11541ae13d2baa56f6f8689629b5001e"
+    },
+    {
+      "path": "skills/remotion-to-hyperframes/scripts/.gitkeep",
+      "gitBlobSha1": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+    },
+    {
+      "path": "skills/remotion-to-hyperframes/scripts/lint_source.py",
+      "gitBlobSha1": "5b72eec0cadd095c244c55d275fd447e3911e7dc"
+    },
+    {
+      "path": "skills/remotion-to-hyperframes/scripts/tests/boxSizing.test.mjs",
+      "gitBlobSha1": "0785fd493eb02e7cab5820d822ea2e2699e8652e"
+    },
+    {
+      "path": "skills/remotion-to-hyperframes/scripts/tests/fixtures/blocker.tsx",
+      "gitBlobSha1": "f0363663199286be7dc2a05992bcc411bcd2cb47"
+    },
+    {
+      "path": "skills/remotion-to-hyperframes/scripts/tests/fixtures/clean.tsx",
+      "gitBlobSha1": "73c9b60c27985e790b2ea4ae8e4bd95b21c6ff78"
+    },
+    {
+      "path": "skills/remotion-to-hyperframes/scripts/tests/smoke.sh",
+      "gitBlobSha1": "055620472a29e0898cbe4aec6312dfd23cf6ef56"
+    },
+    {
+      "path": "skills/remotion-to-hyperframes/SKILL.md",
+      "gitBlobSha1": "df4fb15cf86638548b25a65af19827fd32e20503"
+    },
+    {
+      "path": "skills/reverse-any-video/references/animated.md",
+      "gitBlobSha1": "0616cb8072e77f6bc5a068a2765d68718b6b226f"
+    },
+    {
+      "path": "skills/reverse-any-video/references/match.md",
+      "gitBlobSha1": "c7d973d5858e7f23fc88a49f8ec6b310dca7824b"
+    },
+    {
+      "path": "skills/reverse-any-video/references/people.md",
+      "gitBlobSha1": "bbf8026a5e1bf7984f6cbb30b3f4dbf1b44872aa"
+    },
+    {
+      "path": "skills/reverse-any-video/references/start.md",
+      "gitBlobSha1": "d5ea957e6ee86b64a5ce4bc0b2dac3ff4c7bcb8c"
+    },
+    {
+      "path": "skills/reverse-any-video/SKILL.md",
+      "gitBlobSha1": "ad95dd9d8dae854f2ebd01ab6573d55e1d52daf2"
+    },
+    {
+      "path": "skills/slideshow/references/standalone-harness.md",
+      "gitBlobSha1": "bc429574304b5c10e82c9cb8e62cc25534a368a5"
+    },
+    {
+      "path": "skills/slideshow/SKILL.md",
+      "gitBlobSha1": "b0f0c0cc327fd93c23b7f021c3bcf77119930c6b"
+    },
+    {
+      "path": "skills/style-sampling/references/remix.md",
+      "gitBlobSha1": "3e0e200d31cf1440aeb4f407bdf5fc27ec97bd2b"
+    },
+    {
+      "path": "skills/style-sampling/SKILL.md",
+      "gitBlobSha1": "7b5f93401cd77de4a4b508a5138a21093889c222"
+    }
+  ]
+}
